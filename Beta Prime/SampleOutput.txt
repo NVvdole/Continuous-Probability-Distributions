@@ -1,0 +1,30 @@
+Beta Prime Distribution
+
+α1 = first shape parameter
+α2 = second shape parameter
+x = continuous random variable
+
+Enter α1: 2.5
+Enter α2: 5.0
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.32401148436022975
+FX(1.0) = 0.8358050491002613
+FXc(1.0) = 0.16419495089973868
+
+Mean, Median, and Mode
+E(X) = 0.625
+Med(X) = 0.4659665804255242
+Mode(X) = 0.25
+
+Variance and Standard Deviation
+Var(X) = 0.33854166666666663
+SD(X) = 0.5818433351570392
+
+Skewness and Kurtosis
+Skew(X) = 3.867020319812938
+Kurt(X) = 50.86153846153847
+
+Entropy
+H(X) = 0.4376126243484728
