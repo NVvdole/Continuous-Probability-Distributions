@@ -1,0 +1,28 @@
+Chi-Square Distribution
+
+df = degrees of freedom
+x = continuous random variable
+
+Enter df: 5
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.0806569081730478
+FX(1.0) = 0.03743422675270361
+FXc(1.0) = 0.9625657732472964
+
+Mean, Median, Mode
+E(X) = 5.0
+Med(X) = 4.351460191095526
+Mode(X) = 3.0
+
+Variance and Standard Deviation
+Var(X) = 10.0
+SD(X) = 3.1622776601683795
+
+Skewness and Kurtosis
+Skew(X) = 1.2649110640673518
+Kurt(X) = 2.4
+
+Entropy
+H(X) = 2.423095090058142
