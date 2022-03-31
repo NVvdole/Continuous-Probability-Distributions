@@ -42,7 +42,7 @@ print("FXc(" + str(x) + ") = " + str(ccdf))
 print("")
 
 print("Mean, Median, and Mode")
-print("E(X) = " + str(mean))\
+print("E(X) = " + str(mean))
 print("Med(X) = " + str(med))
 print("Mode(X) = " + str(mode))
 print("")
