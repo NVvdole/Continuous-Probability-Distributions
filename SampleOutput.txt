@@ -1,30 +1,30 @@
-Gamma Distribution
+Laplace Distribution
 
-α = shape parameter
-λ = rate parameter
+μ = location parameter
+σ = scale parameter
 x = continuous random variable
 
-Enter α: 3.0
-Enter λ: 0.5
+Enter μ: 0.0
+Enter σ: 1.0
 Enter x: 1.0
 
 PDF, CDF, and CCDF
-fX(1.0) = 0.037908166232039596
-FX(1.0) = 0.01438767796697068
-FXc(1.0) = 0.9856123220330293
+fX(1.0) = 0.18393972058572117
+FX(1.0) = 0.8160602794142788
+FXc(1.0) = 0.18393972058572117
 
 Mean, Median, and Mode
-E(X) = 6.0
-Med(X) = 5.348120627447118
-Mode(X) = 4.0
+E(X) = 0.0
+Med(X) = 0.0
+Mode(X) = 0.0
 
 Variance and Standard Deviation
-Var(X) = 12.0
-SD(X) = 3.4641016151377544
+Var(X) = 2.0
+SD(X) = 1.4142135623730951
 
 Skewness and Kurtosis
-Skew(X) = 1.1547005383792517
-Kurt(X) = 2.0
+Skew(X) = 0.0
+Kurt(X) = 3.0
 
 Entropy
-H(X) = 2.5407256909229563
+H(X) = 1.6931471805599454
