@@ -1,0 +1,28 @@
+T-Distribution
+
+df = degrees of freedom
+x = continuous random variable
+
+Enter df: 5.0
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.2196797973509806
+FX(1.0) = 0.8183912661754388
+FXc(1.0) = 0.18160873382456122
+
+Mean, Median, and Mode
+E(X) = 0.0
+Med(X) = 6.976003623003317e-17
+Mode(X) = 0.0
+
+Variance and Standard Deviation
+Var(X) = 1.6666666666666667
+SD(X) = 1.2909944487358056
+
+Skewness and Kurtosis
+Skew(X) = 0.0
+Kurt(X) = 6.0
+
+Entropy
+H(X) = 1.627502672414396
