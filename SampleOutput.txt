@@ -1,0 +1,30 @@
+Cauchy Distribution
+
+μ = location parameter
+σ = scale parameter
+x = continuous random variable
+
+Enter μ: 0.0
+Enter σ: 1.0
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.15915494309189535
+FX(1.0) = 0.75
+FXc(1.0) = 0.25
+
+Mean, Median, and Mode
+E(X) = nan
+Med(X) = 0.0
+Mode(X) = 0.0
+
+Variance and Standard Deviation
+Var(X) = nan
+SD(X) = nan
+
+Skewness and Kurtosis
+Skew(X) = nan
+Kurt(X) = nan
+
+Entropy
+H(X) = 2.5310242469692907
