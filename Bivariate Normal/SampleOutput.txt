@@ -1,0 +1,67 @@
+Bivariate Normal Distribution
+
+μx = first location parameter
+μy = second location parameter
+σx = first scale parameter
+σy = second scale parameter
+ρ = correlation coefficient
+x = first continuous random variable
+y = second continuous random variable
+
+Enter μx: 0.0
+Enter μy: 0.0
+Enter σx: 1.0
+Enter σy: 1.0
+Enter ρ: 0.75
+Enter x: 1.0
+Enter y: 1.0
+
+PDFs
+fX,Y(1.0, 1.0) = 0.13588228068940042
+fX(1.0) = 0.24197072451914337
+fY(1.0) = 0.24197072451914337
+
+CDFs
+FX,Y(1.0, 1.0) = 0.7731464428570984
+FX(1.0) = 0.8413447460685429
+FY(1.0) = 0.8413447460685429
+
+CCDFs
+FX,Yc(1.0, 1.0) = 0.22685355714290156
+FXc(1.0) = 0.15865525393145707
+FYc(1.0) = 0.15865525393145707
+
+Means
+E(X) = 0.0
+E(Y) = 0.0
+
+Medians
+Med(X) = 0.0
+Med(Y) = 0.0
+
+Modes
+Mode(X) = 0.0
+Mode(Y) = 0.0
+
+Variances
+Var(X) = 1.0
+Var(Y) = 1.0
+
+Standard Deviations
+SD(X) = 1.0
+SD(Y) = 1.0
+
+Skewnesses
+Skew(X) = 0.0
+Skew(Y) = 0.0
+
+Kurtoses
+Kurt(X) = 0.0
+Kurt(Y) = 0.0
+
+Entropies
+H(X) = 1.4189385332046727
+H(Y) = 1.4189385332046727
+
+Covariance
+Cov(X, Y) = 0.75
