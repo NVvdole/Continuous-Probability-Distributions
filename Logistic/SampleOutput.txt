@@ -1,0 +1,30 @@
+Logistic Distribution
+
+μ = location parameter
+σ = scale parameter
+x = continuous random variable
+
+Enter μ: 0.0
+Enter σ: 1.0
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.19661193324148185
+FX(1.0) = 0.7310585786300049
+FXc(1.0) = 0.2689414213699951
+
+Mean, Median, and Mode
+E(X) = 0.0
+Med(X) = 0.0
+Mode(X) = 0.0
+
+Variance and Standard Deviation
+Var(X) = 3.289868133696453
+SD(X) = 1.8137993642342178
+
+Skewness and Kurtosis
+Skew(X) = 0.0
+Kurt(X) = 1.2
+
+Entropy
+H(X) = 2.0
