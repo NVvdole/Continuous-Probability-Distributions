@@ -1,0 +1,30 @@
+F-Distribution
+
+df1 = numerator degrees of freedom
+df2 = denominator degrees of freedom
+x = continuous random variable
+
+Enter df1: 5
+Enter df2: 10
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.4954797834866395
+FX(1.0) = 0.5348805734622
+FXc(1.0) = 0.46511942653780014
+
+Mean, Median, and Mode
+E(X) = 1.25
+Med(X) = 0.9319331608510479
+Mode(X) = 0.5
+
+Variance and Standard Deviation
+Var(X) = 1.3541666666666667
+SD(X) = 1.1636866703140785
+
+Skewness and Kurtosis
+Skew(X) = 3.867020319812938
+Kurt(X) = 50.86153846153847
+
+Entropy
+H(X) = 1.1307598049113021
