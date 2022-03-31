@@ -1,0 +1,30 @@
+Gamma Distribution
+
+α = shape parameter
+λ = rate parameter
+x = continuous random variable
+
+Enter α: 3.0
+Enter λ: 0.5
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.037908166232039596
+FX(1.0) = 0.01438767796697068
+FXc(1.0) = 0.9856123220330293
+
+Mean, Median, and Mode
+E(X) = 6.0
+Med(X) = 5.348120627447118
+Mode(X) = 4.0
+
+Variance and Standard Deviation
+Var(X) = 12.0
+SD(X) = 3.4641016151377544
+
+Skewness and Kurtosis
+Skew(X) = 1.1547005383792517
+Kurt(X) = 2.0
+
+Entropy
+H(X) = 2.5407256909229563
