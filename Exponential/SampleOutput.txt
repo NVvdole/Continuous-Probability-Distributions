@@ -1,0 +1,28 @@
+Exponential Distribution
+
+λ = rate parameter
+x = continuous random variable
+
+Enter λ: 0.5
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.3032653298563167
+FX(1.0) = 0.3934693402873666
+FXc(1.0) = 0.6065306597126334
+
+Mean, Median, and Mode
+E(X) = 2.0
+Med(X) = 1.3862943611198906
+Mode(X) = 0.0
+
+Variance and Standard Deviation
+Var(X) = 4.0
+SD(X) = 2.0
+
+Skewness and Kurtosis
+Skew(X) = 2.0
+Kurt(X) = 6.0
+
+Entropy
+H(X) = 1.6931471805599454
