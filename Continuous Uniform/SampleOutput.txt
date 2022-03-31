@@ -1,0 +1,30 @@
+Continuous Uniform Distribution
+
+a = lower bound
+b = upper bound
+x = continuous random variable
+
+Enter a: 0.0
+Enter b: 5.0
+Enter x: 3.0
+
+PDF, CDF, and CCDF
+fX(3.0) = 0.2
+FX(3.0) = 0.6
+FXc(3.0) = 0.4
+
+Mean, Median, and Mode
+E(X) = 2.5
+Med(X) = 2.5
+Mode(X) = N/A
+
+Variance and Standard Deviation
+Var(X) = 2.0833333333333335
+SD(X) = 1.4433756729740645
+
+Skewness and Kurtosis
+Skew(X) = 0.0
+Kurt(X) = -1.2
+
+Entropy
+H(X) = 1.6094379124341003
