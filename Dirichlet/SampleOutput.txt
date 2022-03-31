@@ -1,0 +1,81 @@
+Dirichlet Distribution
+
+α1 = first shape parameter
+α2 = second shape parameter
+α3 = third shape parameter
+x1 = first continuous random variable
+x2 = second continuous random variable
+x3 = third continuous random variable
+
+Enter α1: 2.5
+Enter α2: 5.0
+Enter α2: 7.5
+Enter x1: 0.2
+Enter x2: 0.3
+Enter x3: 0.5
+
+PDFs
+fX1,X2,X3(0.2, 0.3, 0.5) = 11.688617272624807
+fX1(0.2) = 3.2932769139879756
+fX2(0.3) = 3.271910809167001
+fX3(0.5) = 3.039154531022859
+
+CDFs
+FX1(0.2) = 0.6839000516091626
+FX2(0.3) = 0.4157988137806496
+FX3(0.5) = 0.5000000000000003
+
+CCDFs
+FX1c(0.2) = 0.3160999483908373
+FX2c(0.3) = 0.5842011862193504
+FX3c(0.5) = 0.49999999999999983
+
+Means
+E(X1) = 0.16666666666666666
+E(X2) = 0.3333333333333333
+E(X3) = 0.5
+
+Medians
+Med(X1) = 0.15171520085290502
+Med(X2) = 0.32575115528621273
+Med(X3) = 0.49999999999999994
+
+Modes
+Mode(X1) = 0.125
+Mode(X2) = 0.3333333333333333
+Mode(X3) = 0.5416666666666666
+
+Variances
+Var(X1) = 0.008680555555555556
+Var(X2) = 0.013888888888888888
+Var(X3) = 0.015625
+
+Standard Deviations
+SD(X1) = 0.09316949906249124
+SD(X2) = 0.11785113019775792
+SD(X3) = 0.125
+
+Skewnesses
+Skew(X1) = 0.8418138268234502
+Skew(X2) = 0.33275613232308116
+Skew(X3) = 0.0
+
+Kurtoses
+Kurt(X1) = 0.6705882352941176
+Kurt(X2) = -0.17647058823529413
+Kurt(X3) = -0.3333333333333333
+
+Entropies
+H(X1) = -1.0401691493752852
+H(X2) = -0.7350772460409274
+H(X3) = -0.6638334028300616
+
+Covariances
+Cov(X1, X2) = -0.003472222222222222
+Cov(X1, X3) = -0.005208333333333333
+Cov(X2, X3) = -0.010416666666666666
+
+Correlation Coefficients
+Corr(X1, X2) = -0.3162277660168379
+Corr(X1, X3) = -0.4472135954999579
+Corr(X2, X3) = -0.7071067811865475
