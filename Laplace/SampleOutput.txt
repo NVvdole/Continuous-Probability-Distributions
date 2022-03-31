@@ -1,0 +1,30 @@
+Laplace Distribution
+
+μ = location parameter
+σ = scale parameter
+x = continuous random variable
+
+Enter μ: 0.0
+Enter σ: 1.0
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.18393972058572117
+FX(1.0) = 0.8160602794142788
+FXc(1.0) = 0.18393972058572117
+
+Mean, Median, and Mode
+E(X) = 0.0
+Med(X) = 0.0
+Mode(X) = 0.0
+
+Variance and Standard Deviation
+Var(X) = 2.0
+SD(X) = 1.4142135623730951
+
+Skewness and Kurtosis
+Skew(X) = 0.0
+Kurt(X) = 3.0
+
+Entropy
+H(X) = 1.6931471805599454
