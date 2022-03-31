@@ -1,0 +1,30 @@
+Weibull Distribution
+
+α = shape parameter
+β = scale parameter
+x = continuous random variable
+
+Enter α: 3.0
+Enter β: 2.0
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.3309363384692233
+FX(1.0) = 0.1175030974154046
+FXc(1.0) = 0.8824969025845955
+
+Mean, Median, and Mode
+E(X) = 1.7859590231384979
+Med(X) = 1.7699940890010355
+Mode(X) = 1.7471609294725978
+
+Variance and Standard Deviation
+Var(X) = 0.42133153947391655
+SD(X) = 0.6491005619115705
+
+Skewness and Kurtosis
+Skew(X) = 0.16810284222938532
+Kurt(X) = -0.2705363669038352
+
+Entropy
+H(X) = 0.979345335159524
