@@ -1,0 +1,30 @@
+Lognormal Distribution
+
+μ = location parameter
+σ = scale parameter
+x = continuous random variable
+
+Enter μ: 0.0
+Enter σ: 1.0
+Enter x: 1.0
+
+PDF, CDF, and CCDF
+fX(1.0) = 0.3989422804014327
+FX(1.0) = 0.5
+FXc(1.0) = 0.5
+
+Mean, Median, and Mode
+E(X) = 1.6487212707001282
+Med(X) = 1.0
+Mode(X) = 0.36787944117144233
+
+Variance and Standard Deviation
+Var(X) = 4.670774270471604
+SD(X) = 2.1611974158950877
+
+Skewness and Kurtosis
+Skew(X) = 6.184877138632554
+Kurt(X) = 110.9363921763115
+
+Entropy
+H(X) = 1.4189385332046727
